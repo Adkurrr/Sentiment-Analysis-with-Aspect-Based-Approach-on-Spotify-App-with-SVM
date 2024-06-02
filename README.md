@@ -5,3 +5,6 @@ This repository is used to complete the final project of the text mining course.
 The dataset used in this analysis is the sportify application review dataset on the Google Play Store. You can get the dataset [here](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022/data)
 
 ## Previews
+
+
+## Result
