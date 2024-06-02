@@ -6,6 +6,4 @@ The dataset used in this analysis is the sportify application review dataset on 
 
 ## Previews
 
-## Result
-
-test lagi nih
+## Result 
