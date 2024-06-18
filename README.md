@@ -11,3 +11,4 @@ Sentiment analysis model built using Support Vector Machine (SVM) with Sportify 
 ## Result 
 - f1-score : 0.6442887669173024
 - accuracy : 0.7422879177377892
+![Test Model](https://github.com/Adkurrr/Sentiment-Analysis-with-Aspect-Based-Approach-on-Spotify-App-with-SVM/blob/main/assets/test_model.png)
